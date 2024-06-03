@@ -1,4 +1,4 @@
-# How to Deploy
+# How to Deploy a Website on GitHub
 
 Deploying a static website consisting of HTML, CSS, and JavaScript on GitHub Pages is a straightforward process. GitHub Pages allows you to host static websites directly from your GitHub repository. Follow these steps to deploy your website:
 
